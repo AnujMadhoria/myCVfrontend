@@ -40,8 +40,7 @@ This site showcases my web development projects, UI/UX design case studies, resu
 
 🧑‍💻 Author
 Anuj Madhoria
-GitHub
-LinkedIn
+
 
 
 
